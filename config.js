@@ -3,10 +3,10 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "hi baby",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
+        "When i say i love you",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "its because you are the best thing that has happened to me",  // 同上...
+        "you became a certified lover girl and girlfriend",
+        "i cant wait for you to be my certofied wife",
         "第三个生日了哦",
         "去年的生日",
         "还记得在王婆串串吃的呢",
