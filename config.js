@@ -6,14 +6,12 @@ var config = {
         "When i say i love you",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "its because you are the best thing that has happened to me",  // 同上...
         "you became a certified lover girl and girlfriend",
-        "i cant wait for you to be my certofied wife",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "i cant wait for you to be my certified wife.",
+        "To the girl trhat means the world to me",
+        "and also got the juice",
+        "i wish you long life and to let you know",
+        "i love you till infinity",
+        "~~DOJ",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,18 +23,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        // "心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "Click me birthday girl",
+        play: "Turn Music on",
+        bannar_coming: "colour?",
+        balloons_flying: "Seems like something is missing",
+        cake_fadein: "Cake？",
+        light_candle: "Make a wish",
+        wish_message: "Happy Birthday Bolu",
+        story: "Doj Has a Message For You",
     }
 };
