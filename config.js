@@ -5,12 +5,12 @@ var config = {
     texts: [
         "When i say i love you",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "its because you are the best thing that has happened to me",  // 同上...
-        "you became a certified lover girl and girlfriend",
-        "i cant wait for you to be my certified wife.",
-        "To the girl trhat means the world to me",
-        "and also got the juice",
-        "i wish you long life and to let you know",
-        "i love you till infinity",
+        "You became a certified lover girl and girlfriend",
+        "I can't wait for you to be my certified wife.",
+        "To the girl that means the world to me",
+        "And also got the juice",
+        "I wish you long life and to let you know",
+        "I love you till infinity",
         "~~DOJ",
     ],
     /**
